@@ -20,7 +20,7 @@ This is the backend repository for the AI Art Gallery project. It provides the R
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/kunalsaxena/aiart-backend.git`
+1. Clone the repository: `git clone https://github.com/kunalsaxena/aiartgallery-backend.git`
 2. Run `mvn clean install` and download all required dependencies
 3. Run the project using command: `mvn spring-boot:run`
 
